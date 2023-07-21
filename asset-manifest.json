@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/angkringan247/static/css/main.2e981fbe.css",
-    "main.js": "/angkringan247/static/js/main.425140b9.js",
+    "main.css": "/angkringan247/static/css/main.38a75034.css",
+    "main.js": "/angkringan247/static/js/main.ed880070.js",
     "static/js/787.a7d648eb.chunk.js": "/angkringan247/static/js/787.a7d648eb.chunk.js",
     "index.html": "/angkringan247/index.html",
-    "main.2e981fbe.css.map": "/angkringan247/static/css/main.2e981fbe.css.map",
-    "main.425140b9.js.map": "/angkringan247/static/js/main.425140b9.js.map",
+    "main.38a75034.css.map": "/angkringan247/static/css/main.38a75034.css.map",
+    "main.ed880070.js.map": "/angkringan247/static/js/main.ed880070.js.map",
     "787.a7d648eb.chunk.js.map": "/angkringan247/static/js/787.a7d648eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e981fbe.css",
-    "static/js/main.425140b9.js"
+    "static/css/main.38a75034.css",
+    "static/js/main.ed880070.js"
   ]
 }
