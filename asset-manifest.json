@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/angkringan247/static/css/main.146669b9.css",
-    "main.js": "/angkringan247/static/js/main.b0500352.js",
+    "main.css": "/angkringan247/static/css/main.c0de240c.css",
+    "main.js": "/angkringan247/static/js/main.b2952c12.js",
     "static/js/787.a7d648eb.chunk.js": "/angkringan247/static/js/787.a7d648eb.chunk.js",
     "static/media/StretchPro.otf": "/angkringan247/static/media/StretchPro.a2ac1b6e2a9086e61eb1.otf",
     "static/media/angkringan247-logo.png": "/angkringan247/static/media/angkringan247-logo.0e99f04fbdedee66faa3.png",
     "index.html": "/angkringan247/index.html",
-    "main.146669b9.css.map": "/angkringan247/static/css/main.146669b9.css.map",
-    "main.b0500352.js.map": "/angkringan247/static/js/main.b0500352.js.map",
+    "main.c0de240c.css.map": "/angkringan247/static/css/main.c0de240c.css.map",
+    "main.b2952c12.js.map": "/angkringan247/static/js/main.b2952c12.js.map",
     "787.a7d648eb.chunk.js.map": "/angkringan247/static/js/787.a7d648eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.146669b9.css",
-    "static/js/main.b0500352.js"
+    "static/css/main.c0de240c.css",
+    "static/js/main.b2952c12.js"
   ]
 }
